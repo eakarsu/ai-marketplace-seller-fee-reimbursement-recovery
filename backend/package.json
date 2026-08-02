@@ -1,0 +1,17 @@
+{
+  "name": "ai-marketplace-seller-fee-reimbursement-recovery-backend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs",
+    "seed": "node scripts/seed.mjs"
+  },
+  "dependencies": {
+    "bcryptjs": "latest",
+    "dotenv": "latest",
+    "express": "latest",
+    "helmet": "latest",
+    "jsonwebtoken": "latest",
+    "pg": "latest"
+  }
+}
