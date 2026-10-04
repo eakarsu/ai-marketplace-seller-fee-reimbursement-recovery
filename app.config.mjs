@@ -10,7 +10,7 @@ export default defineApp({
   "apiPort": 5558,
   "accent": "#c2410c",
   "currency": "USD",
-  "primaryOutcome": "Marketplace fees and inventory losses converted into verified reimbursements",
+  "primaryOutcome": "Marketplace fee exceptions traced from settlement lines to reviewed policies and later credit evidence",
   "valueNarrative": "Reconcile listings, orders, fulfillment events, inventory ledgers, returns, fee schedules, settlements, and reimbursement policies.",
   "calculation": {
     "actualKey": "reimbursedAmount",
